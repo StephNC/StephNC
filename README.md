@@ -1,7 +1,5 @@
 <h2> My name is Stephanie Núñez and I'm a full stack developer! 👋 </h2>
 
-- 🔭 I’m currently working on
-
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Ruby on Rails**
@@ -10,7 +8,7 @@
 
 - 📫 How to reach me: **nunezcorrea.stephanie@gmail.com**
 
-- 🗂 Know about my projects **[Visit my portfolio](https://troopl.com/stephanienunez)**
+- 🗂📁📂 Know about my projects **[Visit my portfolio](https://troopl.com/stephanienunez)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
