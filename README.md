@@ -4,13 +4,15 @@
 
 - 👯 I’m looking to collaborate on **other passionate developers**
 
-- 💬 Ask me about **Ruby**
+- 💬 Tell me about **software technologies**
+
+- 🥅 2022 Goals: **Learn more about web3**
+
+- ⚡ Fun fact: **I love to manage projects**
 
 - 📫 How to reach me: **nunezcorrea.stephanie@gmail.com**
 
 - 🗂 Know about my projects **[Visit my portfolio](https://troopl.com/stephanienunez)**
-
-- ⚡ Fun fact: I love to manage projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
