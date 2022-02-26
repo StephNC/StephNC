@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: **nunezcorrea.stephanie@gmail.com**
 
-- 🗂📁📂 Know about my projects **[Visit my portfolio](https://troopl.com/stephanienunez)**
+- 🗂 Know about my projects **[Visit my portfolio](https://troopl.com/stephanienunez)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
