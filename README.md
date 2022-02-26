@@ -1,4 +1,4 @@
-<h1> My name is Stephanie Núñez and I'm a full stack developer! 👋 </h1>
+<h2> My name is Stephanie Núñez and I'm a full stack developer! 👋 </h2>
 
 - 🔭 I’m currently working on
 
