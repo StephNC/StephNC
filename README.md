@@ -1,4 +1,4 @@
-## My name is Stephanie Núñez and I'm a full stack developer! 👋 
+## Welcome! 👋 My name is Stephanie Núñez and I'm a full stack developer! ❤
 
 - 🌱 I’m currently learning **everything** 😂
 
