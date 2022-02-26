@@ -1,14 +1,16 @@
-<h2> My name is Stephanie Núñez and I'm a full stack developer! 👋 </h2>
+## My name is Stephanie Núñez and I'm a full stack developer! 👋 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **everything** 😂
 
-- 👯 I’m looking to collaborate on **Ruby on Rails**
+- 👯 I’m looking to collaborate on **other passionate developers**
 
 - 💬 Ask me about **Ruby**
 
 - 📫 How to reach me: **nunezcorrea.stephanie@gmail.com**
 
 - 🗂 Know about my projects **[Visit my portfolio](https://troopl.com/stephanienunez)**
+
+- ⚡ Fun fact: I love to manage projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
